@@ -20,8 +20,10 @@ Interested in **VLSI CAD**, **AI EDA**, and **AI Accelerators**
 ## Achievements & Awards
 
 ### 2025
+- Division Recognition Award, Axion Co., Ltd.
 - Super Rookie Award, Axion Co., Ltd.
 - Best Paper Award, Korean Conference on Semiconductors (KCS)
+
 
 ### 2024
 - 1st Place, IT Creative Challenge (IEIE)
