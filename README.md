@@ -2,7 +2,7 @@
 
 ## Profile
 
-**CAD Engineer** @ [Axion Co., Ltd.](https://www.axion-technologies.com/)
+**CAD Engineer** @ [Axion Co., Ltd.](https://www.linkedin.com/company/axion-co-ltd/posts/?feedView=all)
 
 B.S. in Electrical and Information Engineering @ Sejong University (Expected Feb. 2026)
 
